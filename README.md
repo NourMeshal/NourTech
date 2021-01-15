@@ -8,7 +8,7 @@
  ### Languages and Tools:
 
 [<img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png">][unity]
-
+[<img align="left" alt="Swift" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4202060%2Flogo_social_social_media_swift_icon&psig=AOvVaw1ffCDLcXvWlRzKxPTpNyYn&ust=1610765046804000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjr6sf1nO4CFQAAAAAdAAAAABAD">][Swift]
 <br />
 <br />
 
