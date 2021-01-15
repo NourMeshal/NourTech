@@ -2,7 +2,7 @@
 - 🎮 Game Programmer
 - 🍎 iOS Apps Programmer
 - 🌐 Website Programmer
-- ⚽ 2021 Goals: Teaching the largest group of people how to programe games  
+- ⚽ 2021 Goals: Teaching the largest group of people how to build games  
 <br />
 
  ### Languages and Tools:
